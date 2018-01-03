@@ -1,0 +1,14 @@
+.delete_option{
+	text-decoration: none;
+	color: red;
+}
+
+#show_image img{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 150px;
+}
+
+.update_image{
+	display: none;
+}

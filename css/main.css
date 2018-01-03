@@ -1,0 +1,48 @@
+.logo{
+	background-color: black;
+	margin: auto;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.main-nav{
+	background-color: #333333;
+}
+
+.main-nav>a{
+	color: #999999;
+}
+
+.main-nav>a:hover{
+	color: #E6E6E6;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background-color: #333333;
+	color: #ffffff;
+}
+
+/*麵包屑*/
+.breadcrumb{
+	background-color: inherit;
+}
+
+.content{
+	margin-top: 10px;
+	margin-bottom: 100px;
+}
+
+
+.products{
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.products-area{
+	margin-bottom: 20px;
+}
+
+.block{
+	height: 300px;
+}
