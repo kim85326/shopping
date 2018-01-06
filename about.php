@@ -41,6 +41,7 @@
         </nav>
         <div class="logo">
             <a href="./index.php">
+                <div>假設有一間冠軍五金的logo</div>
                 <img src="img/logo.png" width="200" height="200" alt="">
             </a>
         </div>
@@ -57,9 +58,10 @@
                 <li class="breadcrumb-item active" aria-current="page">關於我們</li>
             </ol>
         </nav>
-        <h1>關於冠軍五金</h1>
+
+        <h1>關於假設有一家冠軍五金</h1>
         <div class="content">
-            <p>冠軍五金成立於1996年，老闆是一個還沒畢業的大學生，每天工作內容就是一直coding一直coding一直coding一直coding，有一天突然想起家鄉的滷肉飯，還有夜市的炒麵、豬血湯、雞排、珍珠奶茶、清心的多多綠、中華夜市的烤土司和木瓜牛奶，於是就展開返台中之旅，因而創建冠軍五金。
+            <p>假設有一家冠軍五金成立於1996年，老闆是一個還沒畢業的大學生，每天工作內容就是一直coding一直coding一直coding一直coding，有一天突然想起家鄉的滷肉飯，還有夜市的炒麵、豬血湯、雞排、珍珠奶茶、清心的多多綠、中華夜市的烤土司和木瓜牛奶，於是就展開返台中之旅，因而創建冠軍五金。
             </p>   
             <img class="map" src="http://www.ntust.edu.tw/ezfiles/0/1000/img/4/address.jpg" width="500" alt="">
         </div>
@@ -79,7 +81,7 @@
                 </li>
             </ul>
             <small class="navbar-text">
-                Copyright © 冠軍五金 All Rights Reserved. │ 網頁設計：李慈恩
+                網頁設計：李慈恩
             </small>
         </nav>
     </footer>

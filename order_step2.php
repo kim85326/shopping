@@ -53,6 +53,7 @@
         </nav>
         <div class="logo">
             <a href="./index.php">
+                <div>假設有一間冠軍五金的logo</div>
                 <img src="img/logo.png" width="200" height="200" alt="">
             </a>
         </div>
@@ -194,7 +195,7 @@
                 </li>
             </ul>
             <small class="navbar-text">
-                Copyright © 冠軍五金 All Rights Reserved. │ 網頁設計：李慈恩
+                網頁設計：李慈恩
             </small>
         </nav>
     </footer>

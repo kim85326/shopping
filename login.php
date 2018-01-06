@@ -93,7 +93,7 @@
                 </li>
             </ul>
             <small class="navbar-text">
-                Copyright © 冠軍五金 All Rights Reserved. │ 網頁設計：李慈恩
+                網頁設計：李慈恩
             </small>
         </nav>
     </footer>
